@@ -3,4 +3,5 @@ second edition
 issue resolved
 issue hotfix: my solution
 issue hotfix: team's solution
+new function
 
