@@ -1,3 +1,4 @@
 first edition
 second edition
 issue resolved
+issue hotfix: my solution
